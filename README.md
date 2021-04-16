@@ -1,8 +1,8 @@
 ### Hi there 👋 Vrutik Rabadia this side!!
 - 🔭 I’m currently working on 
-  * Schudle, a platform for managing education work of Schools/Colleges.
-  * Plotify, a platform that helps people to visualize and manipulate data with statistical methods.
-  * Contributing to Devolearn project.
+  * [Schudle](https://github.com/VARSY5/schudle), a platform for managing education work of Schools/Colleges.
+  * [Plotify](https://github.com/RuntimeTerror-Plotify/plotify), a platform that helps people to visualize and manipulate data with statistical methods.
+  * Contributing to [Devolearn](https://github.com/DevoLearn).
 - 👀 I’m interested in Machine Learning and Web Development
 
 
