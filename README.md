@@ -27,9 +27,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
 </a>
 <a href="https://www.linkedin.com/in/vrutikrabadia/" target="_blank">
-<img alt="LinkedIn" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="LinkedIn" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://vrutikrabadia.github.io/" target="_blank"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="vrutikrabadia">
+<a href="https://vrutikrabadia.github.io/" target="_blank"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="vrutikrabadia" />
 </a>
 <a href="mailto:vrutik.rabadia@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
